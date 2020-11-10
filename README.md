@@ -22,5 +22,5 @@
 請盡量使用上課教的 GUI 工具或 git 指令繳交作業  
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
-## 作業連結
-- [儲存庫](https://github.com/)
+## 作業連結(已繳交)
+- [儲存庫](https://github.com/lisa6125/adapt-work2/blob/master/README.md)
